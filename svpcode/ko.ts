@@ -181,7 +181,7 @@
     </message>
     <message>
         <source>Disable SVP while encoding</source>
-        <translation type="unfinished"></translation>
+        <translation type="인코딩 SVP 비활성화"></translation>
     </message>
     <message>
         <source>Transcoding finished but remuxing failed</source>
@@ -316,7 +316,7 @@
     </message>
     <message>
         <source>Do nothing</source>
-        <translation>아무것도 않기</translation>
+        <translation>아무것도 하지않기</translation>
     </message>
     <message>
         <source>Sleep</source>
@@ -344,7 +344,7 @@
     </message>
     <message>
         <source>QuickSync</source>
-        <translation>QuickSync</translation>
+        <translation>빠른 동기화</translation>
     </message>
     <message>
         <source>H.265 (HEVC)</source>
@@ -408,7 +408,7 @@
     </message>
     <message>
         <source>VideoToolbox</source>
-        <translation>VideoToolbox</translation>
+        <translation>비디오 제어창</translation>
     </message>
     <message>
         <source>Transcode an active video file</source>
@@ -424,7 +424,7 @@
     </message>
     <message>
         <source>Finish and clear intermediate files</source>
-        <translation>중간 파일 종료 및 지우기</translation>
+        <translation>중간 파일 삭제 및 종료</translation>
     </message>
     <message>
         <source>Reset to original frame size</source>
@@ -456,11 +456,11 @@
     </message>
     <message>
         <source>Video only, drop all other tracks</source>
-        <translation>동영상만, 원본 트랙으로 멀티플렉싱하지 않기</translation>
+        <translation>동영상에 한하여, 다른 모든 트랙 삭제</translation>
     </message>
     <message>
         <source>Transcoding powered by:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Transcoding powered by"></translation>
     </message>
     <message>
         <source>depth:</source>
@@ -468,19 +468,19 @@
     </message>
     <message>
         <source>8-bit</source>
-        <translation type="unfinished"></translation>
+        <translation type="8 비트"></translation>
     </message>
     <message>
         <source>10-bit encoding requires GPU acceleration enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="10 비트 인코딩을 사용하려면 GPU 가속이 필요합니다"></translation>
     </message>
     <message>
         <source>10-bit</source>
-        <translation type="unfinished"></translation>
+        <translation type="10 비트"></translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="..."></translation>
     </message>
 </context>
 <context>
